@@ -1,5 +1,8 @@
 0x01. Python - if/else, loops, functions
+----------------------------------------
 General
+-------
+
 Why Python programming is awesome
 Why indentation is so important in Python
 How to use the if, if ... else statements
@@ -16,8 +19,3 @@ What does return a function that does not use any return statement
 Scope of variables
 What’s a traceback
 What are the arithmetic operators and how to use them
-Copyright - Plagiarism
-You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
-You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
-You are not allowed to publish any content of this project.
-Any form of plagiarism is strictly forbidden and will result in removal from the program.

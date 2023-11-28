@@ -1,2 +1,3 @@
 0x09. Python - Everything is object
-https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/70f9ea0e969dfcc407a7427aba4786d87a920494.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231128%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231128T233143Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=875e9e2a691f38efc576678c8fdcbe5aa26be73431ae71d952fbf33b157ff8ef
+
+
